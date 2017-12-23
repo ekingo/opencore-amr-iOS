@@ -3,7 +3,6 @@
 
 # Libraries
 *.lib
-*.a
 
 # Shared objects (inc. Windows DLLs)
 *.dll
@@ -72,3 +71,7 @@ amrnb/.deps/a_refl.Plo
 *.i386
 
 *.x86_64
+
+amrnb/.libs/libopencore-amrnb.a
+
+amrwb/.libs/libopencore-amrwb.a
